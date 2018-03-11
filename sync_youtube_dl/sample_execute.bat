@@ -1,0 +1,2 @@
+sync_youtube_dl.exe PlaylistTitle PlAyLiStId_Usually_34_Characters__ .\Output\Directory\
+pause

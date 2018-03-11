@@ -1,0 +1,13 @@
+/****************************/
+Paste in this folder the following programs:
+
+ffmpeg.exe
+ffprobe.exe
+youtube-dl.exe
+mp3gain (folder with mp3.exe and it's dependencies)
+
+
+/***********SOURCES*************/
+https://www.ffmpeg.org/
+http://mp3gain.sourceforge.net/
+https://rg3.github.io/youtube-dl/

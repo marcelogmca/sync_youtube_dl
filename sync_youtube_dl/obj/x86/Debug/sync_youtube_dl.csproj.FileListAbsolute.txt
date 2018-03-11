@@ -1,0 +1,34 @@
+C:\Users\ineyve\Documents\Visual Studio 2017\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\sync_youtube_dl.exe
+C:\Users\ineyve\Documents\Visual Studio 2017\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\sync_youtube_dl.pdb
+C:\Users\ineyve\Documents\Visual Studio 2017\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ineyve\Documents\Visual Studio 2017\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\ineyve\Documents\Visual Studio 2017\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\taglib-sharp.dll
+C:\Users\ineyve\Documents\Visual Studio 2017\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ineyve\Documents\Visual Studio 2017\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\ineyve\Documents\Visual Studio 2017\Projects\sync_youtube_dl\sync_youtube_dl\obj\x86\Debug\sync_youtube_dl.csprojResolveAssemblyReference.cache
+C:\Users\ineyve\Documents\Visual Studio 2017\Projects\sync_youtube_dl\sync_youtube_dl\obj\x86\Debug\sync_youtube_dl.csproj.CoreCompileInputs.cache
+C:\Users\ineyve\Documents\Visual Studio 2017\Projects\sync_youtube_dl\sync_youtube_dl\obj\x86\Debug\sync_youtube_dl.exe
+C:\Users\ineyve\Documents\Visual Studio 2017\Projects\sync_youtube_dl\sync_youtube_dl\obj\x86\Debug\sync_youtube_dl.pdb
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\sync_youtube_dl.exe
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\sync_youtube_dl.pdb
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\taglib-sharp.dll
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl\sync_youtube_dl\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl\sync_youtube_dl\obj\x86\Debug\sync_youtube_dl.csprojResolveAssemblyReference.cache
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl\sync_youtube_dl\obj\x86\Debug\sync_youtube_dl.csproj.CoreCompileInputs.cache
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl\sync_youtube_dl\obj\x86\Debug\sync_youtube_dl.exe
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl\sync_youtube_dl\obj\x86\Debug\sync_youtube_dl.pdb
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl - Cópia\sync_youtube_dl\bin\Debug\SOFTWARE_NEEDED.txt
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl - Cópia\sync_youtube_dl\bin\Debug\sample_execute.bat
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl - Cópia\sync_youtube_dl\bin\Debug\sync_youtube_dl.exe
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl - Cópia\sync_youtube_dl\bin\Debug\sync_youtube_dl.pdb
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl - Cópia\sync_youtube_dl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl - Cópia\sync_youtube_dl\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl - Cópia\sync_youtube_dl\bin\Debug\taglib-sharp.dll
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl - Cópia\sync_youtube_dl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl - Cópia\sync_youtube_dl\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl - Cópia\sync_youtube_dl\obj\x86\Debug\sync_youtube_dl.csproj.CoreCompileInputs.cache
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl - Cópia\sync_youtube_dl\obj\x86\Debug\sync_youtube_dl.exe
+C:\Users\ineyv\Documents\Projects\sync_youtube_dl - Cópia\sync_youtube_dl\obj\x86\Debug\sync_youtube_dl.pdb

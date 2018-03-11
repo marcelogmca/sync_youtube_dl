@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3EA7E965-D27F-4C4D-A6EC-9FDE95BC30AD}|Default">
+  <MonoDevelop.Ide.ItemProperties.sync__youtube__dl PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="sync_youtube_dl\Program.cs">
+    <Files>
+      <File FileName="sync_youtube_dl\Program.cs" Line="45" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -9,3 +9,14 @@
 ### How do I get set up? ###
 
 * Just look into "SOFTWARE_NEEDED.txt" and "sample_execute.bat"
+
+### Dependencies ###
+
+* Libraries:
+* TagLib by https://www.nuget.org/packages/taglib/
+* Newtonsoft Json https://www.nuget.org/packages/newtonsoft.json/
+
+* External Software:
+* youtube-dl https://rg3.github.io/youtube-dl/
+* ffmpeg https://www.ffmpeg.org/
+* mp3gain http://mp3gain.sourceforge.net/
